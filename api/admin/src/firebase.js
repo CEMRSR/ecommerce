@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getStorage, ref, uploadBytesResumable, getDownloadURL, deleteObject } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBvOZr09RqkBHgMLi4Tx_v81VpD8gQ498w",
+    //apiKey: "AIzaSyBvOZr09RqkBHgMLi4Tx_v81VpD8gQ498w",
     authDomain: "fullstack-ecommerce-f3adb.firebaseapp.com",
     projectId: "fullstack-ecommerce-f3adb",
     storageBucket: "fullstack-ecommerce-f3adb.appspot.com",
